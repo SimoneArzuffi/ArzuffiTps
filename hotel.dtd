@@ -1,0 +1,11 @@
+<!ELEMENT hotels (hotel+)>
+<!ELEMENT hotel (comune, provincia, stelle, nome, indirizzo, cap, telefono, email, sito_web)>
+<!ELEMENT comune (#PCDATA)>
+<!ELEMENT provincia (#PCDATA)>
+<!ELEMENT stelle (#PCDATA)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT indirizzo (#PCDATA)>
+<!ELEMENT cap (#PCDATA)>
+<!ELEMENT telefono (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT sito_web (#PCDATA)>
