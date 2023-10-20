@@ -8,15 +8,40 @@
         <indirizzo>"FRAZIONE RONCHI, 10"</indirizzo>
         <cap>"38061"</cap>
         <telefono>"0464-671033"</telefono>
-        <email>""</email>
+        <email>"info@ala.it"</email>
+        <sito_web>""</sito_web>
     </hotel>
     <hotel>
-
+        <comune>"ANDALO"</comune>
+        <provincia >"TRENTO"</provincia>
+        <categoria>"2-stelle"</categoria>
+        <nome>"MERIDIANA"</nome>
+        <indirizzo>"VIALE TRENTO, 2"</indirizzo>
+        <cap>"38010"</cap>
+        <telefono>"0461-585780"</telefono>
+        <email>"info@residencemeridiana.it"</email>
+        <sito_web>"www.residencemeridiana.it"</sito_web>
     </hotel>
     <hotel>
-
+        <comune>"CAVEDAGO"</comune>
+        <provincia>"TRENTO"</provincia>
+        <categoria>"3-stelle"</categoria>
+        <nome>"OLISAMIR"</nome>
+        <indirizzo>"VIA ZENI, 22"</indirizzo>
+        <cap>"38010"</cap>
+        <telefono>"0461-654222"</telefono>
+        <email>"info@hotelolisamir.com"</email>
+        <sito_web>"www.hotelolisamir.com"</sito_web>
     </hotel>
     <hotel>
-
+        <comune>"CLES"</comune>
+        <provincia>"TRENTO"</provincia>
+        <categoria>"3-stelle"</categoria>
+        <nome>"ANTICA TRATTORIA"</nome>
+        <indirizzo>"VIA ROMA, 13"</indirizzo>
+        <cap>"38023"</cap>
+        <telefono>"0463-421631"</telefono>
+        <email>"info@anticatrattoriacles.it"</email>
+        <sito_web>"www.anticatrattoriacles.it"</sito_web>
     </hotel>
 </hotels>
