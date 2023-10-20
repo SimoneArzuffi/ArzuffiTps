@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="hotels">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="hotel" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="comune" type="xs:string"/>
+                            <xs:element name="provincia" type="xs:string"/>
+                            <xs:element name="stelle" type="xs:string"/>
+                            <xs:element name="nome" type="xs:string"/>
+                            <xs:element name="indirizzo" type="xs:string"/>
+                            <xs:element name="cap" type="xs:string"/>
+                            <xs:element name="telefono" type="xs:string"/>
+                            <xs:element name="email" type="xs:string"/>
+                            <xs:element name="sito_web" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
