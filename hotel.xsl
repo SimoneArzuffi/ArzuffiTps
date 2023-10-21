@@ -32,7 +32,7 @@
             <th>Email</th>
             <th>Sito Web</th>
           </tr>
-          <xsl:for-each select="hotel">
+          <xsl:for-each select="hotels/hotel">
             <tr>
               <td><xsl:value-of select="comune"/></td>
               <td><xsl:value-of select="provincia"/></td>

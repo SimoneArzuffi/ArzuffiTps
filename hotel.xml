@@ -1,47 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="hotel.xsl"?>
+<!--<!DOCTYPE hotels SYSTEM "hotel.dtd">-->
 <hotels>
     <hotel>
-        <comune>"ALA"</comune>
-        <provincia>"TRENTO"</provincia>
-        <stelle>"1-stella"</stelle>
-        <nome>"CENTRALE"</nome>
-        <indirizzo>"FRAZIONE RONCHI, 10"</indirizzo>
-        <cap>"38061"</cap>
-        <telefono>"0464-671033"</telefono>
-        <email>"info@hotelala.it"</email>
-        <sito_web>""</sito_web>
+        <comune>ALA</comune>
+        <provincia>TRENTO</provincia>
+        <stelle>1-stella</stelle>
+        <nome>CENTRALE</nome>
+        <indirizzo>FRAZIONE RONCHI, 10</indirizzo>
+        <cap>38061</cap>
+        <telefono>0464-671033</telefono>
+        <email>info@hotelala.it</email>
+        <sito_web>www.alahotel.it</sito_web>
     </hotel>
     <hotel>
-        <comune>"ANDALO"</comune>
-        <provincia >"TRENTO"</provincia>
-        <stelle>"2-stelle"</stelle>
-        <nome>"MERIDIANA"</nome>
-        <indirizzo>"VIALE TRENTO, 2"</indirizzo>
-        <cap>"38010"</cap>
-        <telefono>"0461-585780"</telefono>
-        <email>"info@residencemeridiana.it"</email>
-        <sito_web>"www.residencemeridiana.it"</sito_web>
+        <comune>ANDALO</comune>
+        <provincia >TRENTO</provincia>
+        <stelle>2-stelle</stelle>
+        <nome>MERIDIANA</nome>
+        <indirizzo>VIALE TRENTO, 2</indirizzo>
+        <cap>38010</cap>
+        <telefono>0461-585780</telefono>
+        <email>info@residencemeridiana.it</email>
+        <sito_web>www.residencemeridiana.it</sito_web>
     </hotel>
     <hotel>
-        <comune>"CAVEDAGO"</comune>
-        <provincia>"TRENTO"</provincia>
-        <stelle>"3-stelle"</stelle>
-        <nome>"OLISAMIR"</nome>
-        <indirizzo>"VIA ZENI, 22"</indirizzo>
-        <cap>"38010"</cap>
-        <telefono>"0461-654222"</telefono>
-        <email>"info@hotelolisamir.com"</email>
-        <sito_web>"www.hotelolisamir.com"</sito_web>
+        <comune>CAVEDAGO</comune>
+        <provincia>TRENTO</provincia>
+        <stelle>3-stelle</stelle>
+        <nome>OLISAMIR</nome>
+        <indirizzo>VIA ZENI, 22</indirizzo>
+        <cap>38010</cap>
+        <telefono>0461-654222</telefono>
+        <email>info@hotelolisamir.com</email>
+        <sito_web>www.hotelolisamir.com</sito_web>
     </hotel>
     <hotel>
-        <comune>"CLES"</comune>
-        <provincia>"TRENTO"</provincia>
-        <stelle>"3-stelle"</stelle>
-        <nome>"ANTICA TRATTORIA"</nome>
-        <indirizzo>"VIA ROMA, 13"</indirizzo>
-        <cap>"38023"</cap>
-        <telefono>"0463-421631"</telefono>
-        <email>"info@anticatrattoriacles.it"</email>
-        <sito_web>"www.anticatrattoriacles.it"</sito_web>
+        <comune>CLES</comune>
+        <provincia>TRENTO</provincia>
+        <stelle>3-stelle</stelle>
+        <nome>ANTICA TRATTORIA</nome>
+        <indirizzo>VIA ROMA, 13</indirizzo>
+        <cap>38023</cap>
+        <telefono>0463-421631</telefono>
+        <email>info@anticatrattoriacles.it</email>
+        <sito_web>www.anticatrattoriacles.it</sito_web>
     </hotel>
 </hotels>
