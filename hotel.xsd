@@ -6,6 +6,7 @@
                 <xs:element name="hotel" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
+                            <xs:element name="classe"></xs:element>
                             <xs:element name="comune" type="xs:string"/>
                             <xs:element name="provincia" type="xs:string"/>
                             <xs:element name="stelle" type="xs:string"/>
@@ -21,4 +22,5 @@
             </xs:sequence>
         </xs:complexType>
     </xs:element>
+    <xs:attribute name="nome" type="xs:string" default="Simone Arzuffi"></xs:attribute>
 </xs:schema>

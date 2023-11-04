@@ -1,5 +1,7 @@
 <!ELEMENT hotels (hotel+)>
-<!ELEMENT hotel (comune, provincia, stelle, nome, indirizzo, cap, telefono, email, sito_web)>
+<!ELEMENT hotel (classe, comune, provincia, stelle, nome, indirizzo, cap, telefono, email, sito_web)>
+<!ELEMENT classe (#PCDATA)>
+<!ATTLIST classe nome CDATA "Simone Arzuffi">
 <!ELEMENT comune (#PCDATA)>
 <!ELEMENT provincia (#PCDATA)> 
 <!ELEMENT stelle (#PCDATA)>

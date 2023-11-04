@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="hotel.xsl"?>
-<!--<!DOCTYPE hotels SYSTEM "hotel.dtd">-->
+<!DOCTYPE hotels SYSTEM "hotel.dtd">
 <hotels>
     <hotel>
+        <classe nome="Simone Arzuffi">5IA</classe>
         <comune>ALA</comune>
         <provincia>TRENTO</provincia>
         <stelle>1-stella</stelle>
@@ -14,6 +15,7 @@
         <sito_web>www.alahotel.it</sito_web>
     </hotel>
     <hotel>
+        <classe nome="Simone Arzuffi">5IA</classe>
         <comune>ANDALO</comune>
         <provincia >TRENTO</provincia>
         <stelle>2-stelle</stelle>
@@ -25,6 +27,7 @@
         <sito_web>www.residencemeridiana.it</sito_web>
     </hotel>
     <hotel>
+        <classe nome="Simone Arzuffi">5IA</classe>
         <comune>CAVEDAGO</comune>
         <provincia>TRENTO</provincia>
         <stelle>3-stelle</stelle>
@@ -36,6 +39,7 @@
         <sito_web>www.hotelolisamir.com</sito_web>
     </hotel>
     <hotel>
+        <classe nome="Simone Arzuffi">5IA</classe>
         <comune>CLES</comune>
         <provincia>TRENTO</provincia>
         <stelle>3-stelle</stelle>

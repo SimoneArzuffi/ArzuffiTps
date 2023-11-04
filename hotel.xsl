@@ -22,6 +22,7 @@
         <h1>Hotels</h1>
         <table>
           <tr>
+            <th>Nome</th>
             <th>Comune</th>
             <th>Provincia</th>
             <th>Stelle</th>
@@ -34,6 +35,7 @@
           </tr>
           <xsl:for-each select="hotels/hotel">
             <tr>
+              <td><xsl:value-of select="classe/@nome"/></td>
               <td><xsl:value-of select="comune"/></td>
               <td><xsl:value-of select="provincia"/></td>
               <td><xsl:value-of select="stelle"/></td>
